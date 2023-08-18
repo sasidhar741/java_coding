@@ -2,7 +2,7 @@ package conditionals_loops;
 
 import java.util.Scanner;
 
-public class Explanation {
+public class LargestAmongThree {
 
     public static void main(String[] args) {
 
