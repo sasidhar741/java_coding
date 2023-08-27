@@ -23,7 +23,6 @@ public class Main {
                 break;
             default:
                 System.out.println("Enter a valid fruit");
-                break;
         }
 
         System.out.println("Enter the day number to find whether weekday or weekend: ");
