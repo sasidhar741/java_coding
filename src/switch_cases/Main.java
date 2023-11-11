@@ -30,8 +30,9 @@ public class Main {
 
         switch (day) { // new style switch statement (enhanced switch)
             case 1, 2, 3, 4, 5 -> System.out.println("Weekday");
+            default -> System.out.println("Enter a valid input"); // it can be kept in middle
             case 6, 7 -> System.out.println("Weekend");
-            default -> System.out.println("Enter a valid input");
+
         }
     }
 }

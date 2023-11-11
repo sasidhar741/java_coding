@@ -1,4 +1,4 @@
-package Functions;
+package functions;
 
 public class Shadowing {
     static int x = 10; // This value is shadowed at line number 9

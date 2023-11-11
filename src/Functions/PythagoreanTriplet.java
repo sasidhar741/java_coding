@@ -1,4 +1,4 @@
-package Functions;
+package functions;
 
 // A Java program that returns true if there is a Pythagorean
 // Triplet in a given array.
